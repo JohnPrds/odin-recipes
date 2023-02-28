@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2,
+h1 {
+    text-align: center;
+}
+
+ul,
+ol {
+    font-size: 15px;
+}
+
+p {
+    font-size: 18px;
+}
